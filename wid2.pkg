@@ -1,0 +1,10 @@
+v 3
+d wid2
+d A Stata command to bulk download and unzip data from the World Inequality Database (WID).
+d Version: 1.0.0
+d Author: Khaled Bendary
+d Institution: World Inequality Lab, PSE.
+d Email: khaled.mohieldin53@gmail.com 
+d Distribution-Date: 20250221
+f wid2.ado
+f wid2.sthlp
