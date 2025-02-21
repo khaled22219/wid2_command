@@ -1,0 +1,7 @@
+{smcl}
+package wid2
+version 1.0.0
+author Your Name
+description Bulk download from the World Inequality Database (WID)
+stata wid2.ado
+stata wid2.sthlp
