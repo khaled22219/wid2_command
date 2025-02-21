@@ -1,3 +1,0 @@
-v 3
-d wid2
-p wid2
