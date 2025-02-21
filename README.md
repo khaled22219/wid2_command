@@ -7,3 +7,4 @@ wid2 is a user-contributed Stata command that automates the process of downloadi
     1. Downloads the latest ZIP archive from the WID website.
     2. Extracts the contents into a subdirectory named Raw Data inside the specified directory (or the current working directory if no path or option is specified).
     3. Does not affect any existing data in memory. 
+    4. Automatically replaces existing data if any. 
